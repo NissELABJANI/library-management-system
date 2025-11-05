@@ -31,9 +31,6 @@ It allows administrators to manage users, books, and media items, and track borr
    git clone https://github.com/NissELABJANI/library-management-system.git
   ```
 2. Move into the project directory:
-   ```bash
-   cd library-management-system
-  ```
 3. Import the SQL file into your MySQL database.
 4. Configure database connection in the project’s configuration file.
 5. Run the project on your local server (e.g., XAMPP or WAMP).
