@@ -29,7 +29,7 @@ It allows administrators to manage users, books, and media items, and track borr
 1. Clone this repository:
    ```bash
    git clone https://github.com/NissELABJANI/library-management-system.git
-  ```
+   ```
 2. Move into the project directory:
 3. Import the SQL file into your MySQL database.
 4. Configure database connection in the project’s configuration file.
